@@ -1,0 +1,19 @@
+
+body {
+    background-color: rgb(238, 103, 0);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    
+}
+h1{
+    color: rgb(238, 103, 0);
+    
+}
+.box{
+    width: 500px;
+    border: 15px 
+    solid: rgb(238, 103, 0);
+    padding: 50px; 
+    margin-left: 50%;
+    margin-right: 50%;
+    background: rgb(255, 255, 255);
+}
